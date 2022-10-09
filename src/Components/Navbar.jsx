@@ -10,7 +10,7 @@ export default function Navbar() {
                 <img className="imgNav" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png" alt="" />
                 <div className="nav-item">
                     <span className="navlink">
-                        <NavLink className={setActiveClass} end to="/" >
+                        <NavLink className={setActiveClass} end to="/m5d3" >
                             Home
                         </NavLink>
                     </span>
